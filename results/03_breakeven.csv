@@ -1,0 +1,12 @@
+,Before the pandemic (2017-2019),Since the recovery (2022 Q3 to 2026 Q2)
+quarters,12.0,16.0
+fit_r2,0.79,0.982
+variable_share_of_revenue_%,50.6,52.5
+kept_from_each_extra_dollar_%,49.4,47.5
+fixed_cash_costs_per_year_m,1911.0,1897.0
+depreciation_per_year_m (latest 4 quarters for the recent period),509.0,311.0
+interest_per_year_m (latest 4 quarters for the recent period),319.0,557.0
+average_revenue_per_year_m,5338.0,4725.0
+breakeven_revenue_cash_m,3872.0,3995.0
+breakeven_revenue_operating_m,4902.0,4650.0
+breakeven_revenue_after_interest_m,5549.0,5824.0

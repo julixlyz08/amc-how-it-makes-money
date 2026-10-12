@@ -1,0 +1,470 @@
+taxonomy,concept,label,unit,periods,first_end,last_end,has_duration
+us-gaap,EarningsPerShareBasic,"Earnings Per Share, Basic",USD/shares,80,2014-03-31,2026-03-31,True
+us-gaap,EarningsPerShareDiluted,"Earnings Per Share, Diluted",USD/shares,80,2014-03-31,2026-03-31,True
+us-gaap,NetIncomeLoss,Net Income (Loss) Attributable to Parent,USD,80,2014-03-31,2026-03-31,True
+us-gaap,DepreciationDepletionAndAmortization,"Depreciation, Depletion and Amortization",USD,73,2014-03-31,2026-03-31,True
+us-gaap,IncrementalCommonSharesAttributableToParticipatingNonvestedSharesWithNonForfeitableDividendRights,Incremental Common Shares Attributable to Participating Nonvested Shares with Non-forfeitable Dividend Rights,shares,73,2014-03-31,2026-03-31,True
+us-gaap,NetIncomeLossAvailableToCommonStockholdersBasic,"Net Income (Loss) Available to Common Stockholders, Basic",USD,73,2014-03-31,2026-03-31,True
+us-gaap,ShareBasedCompensation,"Share-based Payment Arrangement, Noncash Expense",USD,73,2014-03-31,2026-03-31,True
+us-gaap,WeightedAverageNumberOfDilutedSharesOutstanding,"Weighted Average Number of Shares Outstanding, Diluted",shares,73,2014-03-31,2026-03-31,True
+us-gaap,WeightedAverageNumberOfSharesOutstandingBasic,"Weighted Average Number of Shares Outstanding, Basic",shares,73,2014-03-31,2026-03-31,True
+us-gaap,UndistributedEarningsLossAllocatedToParticipatingSecuritiesBasic,"Undistributed Earnings (Loss) Allocated to Participating Securities, Basic",USD,70,2014-09-30,2026-03-31,True
+us-gaap,OtherNonoperatingIncomeExpense,Other Nonoperating Income (Expense),USD,68,2014-03-31,2026-03-31,True
+us-gaap,ProfitLoss,"Net Income (Loss), Including Portion Attributable to Noncontrolling Interest",USD,68,2014-03-31,2024-12-31,True
+us-gaap,AssetImpairmentCharges,Asset Impairment Charges,USD,63,2014-12-31,2025-12-31,True
+us-gaap,InterestExpense,Interest Expense,USD,63,2014-03-31,2024-06-30,True
+us-gaap,IncomeTaxExpenseBenefit,Income Tax Expense (Benefit),USD,62,2014-03-31,2025-12-31,True
+us-gaap,RevenueFromContractWithCustomerExcludingAssessedTax,"Revenue from Contract with Customer, Excluding Assessed Tax",USD,60,2016-12-31,2026-03-31,True
+us-gaap,PaymentsToAcquirePropertyPlantAndEquipment,"Payments to Acquire Property, Plant, and Equipment",USD,59,2014-03-31,2023-09-30,True
+us-gaap,OperatingIncomeLoss,Operating Income (Loss),USD,58,2014-03-31,2022-06-30,True
+us-gaap,CommonStockDividendsPerShareDeclared,"Common Stock, Dividends, Per Share, Declared",USD/shares,55,2014-03-30,2026-03-31,True
+us-gaap,IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest,"Income (Loss) from Continuing Operations before Income Taxes, Noncontrolling Interest",USD,55,2014-03-31,2025-12-31,True
+us-gaap,OtherComprehensiveIncomeForeignCurrencyTransactionAndTranslationGainLossArisingDuringPeriodNetOfTax,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Gain (Loss) Arising During Period, Net of Tax",USD,55,2015-12-31,2026-03-31,True
+us-gaap,ForeignCurrencyTransactionGainLossBeforeTax,"Foreign Currency Transaction Gain (Loss), before Tax",USD,52,2014-03-31,2023-06-30,True
+us-gaap,IncomeLossFromEquityMethodInvestments,Income (Loss) from Equity Method Investments,USD,52,2014-03-31,2022-09-30,True
+us-gaap,NetIncomeLossAttributableToNoncontrollingInterest,Net Income (Loss) Attributable to Noncontrolling Interest,USD,52,2014-03-31,2023-12-31,True
+us-gaap,ComprehensiveIncomeNetOfTax,"Comprehensive Income (Loss), Net of Tax, Attributable to Parent",USD,51,2014-03-31,2022-06-30,True
+us-gaap,ComprehensiveIncomeNetOfTaxAttributableToNoncontrollingInterest,"Comprehensive Income (Loss), Net of Tax, Attributable to Noncontrolling Interest",USD,51,2014-03-31,2022-06-30,True
+us-gaap,ComprehensiveIncomeNetOfTaxIncludingPortionAttributableToNoncontrollingInterest,"Comprehensive Income (Loss), Net of Tax, Including Portion Attributable to Noncontrolling Interest",USD,51,2014-03-31,2022-06-30,True
+us-gaap,CostsAndExpenses,Costs and Expenses,USD,51,2014-03-31,2022-06-30,True
+us-gaap,GeneralAndAdministrativeExpense,General and Administrative Expense,USD,51,2014-03-31,2022-06-30,True
+us-gaap,InvestmentIncomeInterest,"Investment Income, Interest",USD,51,2014-03-31,2022-06-30,True
+us-gaap,LaborAndRelatedExpense,Labor and Related Expense,USD,51,2014-03-31,2022-06-30,True
+us-gaap,NonoperatingIncomeExpense,Nonoperating Income (Expense),USD,51,2014-03-31,2022-06-30,True
+us-gaap,OtherComprehensiveIncomeLossNetOfTax,"Other Comprehensive Income (Loss), Net of Tax",USD,51,2014-03-31,2022-06-30,True
+us-gaap,OtherCostAndExpenseOperating,"Other Cost and Expense, Operating",USD,51,2014-03-31,2022-06-30,True
+us-gaap,CapitalExpendituresIncurredButNotYetPaid,Capital Expenditures Incurred but Not yet Paid,USD,50,2014-03-31,2026-03-31,True
+us-gaap,EquityMethodInvestmentDividendsOrDistributions,"Proceeds from Equity Method Investment, Distribution",USD,50,2014-03-31,2023-09-30,True
+us-gaap,AccumulatedOtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentNetOfTax,"Accumulated Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Net of Tax",USD,49,2014-03-31,2026-03-31,False
+us-gaap,Goodwill,Goodwill,USD,49,2014-03-31,2026-03-31,False
+us-gaap,IncomeTaxesPaidNet,"Income Taxes Paid, Net",USD,49,2014-03-31,2026-03-31,True
+us-gaap,StockIssuedDuringPeriodSharesRestrictedStockAwardForfeited,"Stock Issued During Period, Shares, Restricted Stock Award, Forfeited",shares,49,2014-03-31,2026-03-31,True
+us-gaap,TreasuryStockValue,"Treasury Stock, Value",USD,49,2014-03-31,2026-03-31,False
+us-gaap,AmortizationOfIntangibleAssets,Amortization of Intangible Assets,USD,48,2014-03-31,2025-12-31,True
+us-gaap,FiniteLivedIntangibleAssetsAccumulatedAmortization,"Finite-Lived Intangible Assets, Accumulated Amortization",USD,48,2014-03-31,2025-12-31,False
+us-gaap,FiniteLivedIntangibleAssetsGross,"Finite-Lived Intangible Assets, Gross",USD,48,2014-03-31,2025-12-31,False
+us-gaap,FiniteLivedIntangibleAssetsNet,"Finite-Lived Intangible Assets, Net",USD,48,2014-03-31,2025-12-31,False
+us-gaap,IntangibleAssetsNetExcludingGoodwill,"Intangible Assets, Net (Excluding Goodwill)",USD,48,2014-03-31,2025-12-31,False
+us-gaap,OtherDepreciationAndAmortization,Other Depreciation and Amortization,USD,48,2014-03-31,2025-12-31,True
+us-gaap,GainLossOnSaleOfOtherAssets,Gain (Loss) on Disposition of Other Assets,USD,46,2016-12-31,2026-03-31,True
+us-gaap,RestrictedStockAwardForfeitures,"Restricted Stock Award, Forfeitures",USD,44,2014-12-31,2026-03-31,True
+us-gaap,OperatingLeaseCost,"Operating Lease, Cost",USD,43,2019-03-31,2026-03-31,True
+us-gaap,InterestPaid,"Interest Paid, Including Capitalized Interest, Operating and Investing Activities",USD,42,2014-03-31,2025-12-31,True
+us-gaap,DeferredIncomeTaxExpenseBenefit,Deferred Income Tax Expense (Benefit),USD,41,2014-03-31,2025-12-31,True
+us-gaap,GoodwillForeignCurrencyTranslationGainLoss,"Goodwill, Foreign Currency Translation Gain (Loss)",USD,41,2015-12-31,2026-03-31,True
+us-gaap,IndefiniteLivedTradeNames,Indefinite-Lived Trade Names,USD,41,2014-12-31,2025-12-31,False
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearTwo,"Finite-Lived Intangible Asset, Expected Amortization, Year Two",USD,40,2014-03-31,2023-12-31,False
+us-gaap,AccumulatedDepreciationDepletionAndAmortizationPropertyPlantAndEquipment,"Accumulated Depreciation, Depletion and Amortization, Property, Plant, and Equipment",USD,39,2014-03-31,2025-12-31,False
+us-gaap,MinorityInterest,Stockholders' Equity Attributable to Noncontrolling Interest,USD,39,2014-03-31,2025-12-31,False
+us-gaap,PropertyPlantAndEquipmentNet,"Property, Plant and Equipment, Net",USD,39,2014-03-31,2025-12-31,False
+us-gaap,TreasuryStockShares,"Treasury Stock, Shares",shares,38,2014-03-31,2023-06-30,False
+us-gaap,AdjustmentsToAdditionalPaidInCapitalSharebasedCompensationRequisiteServicePeriodRecognitionValue,"APIC, Share-based Payment Arrangement, Increase for Cost Recognition",USD,37,2014-03-31,2022-09-30,True
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearFour,"Finite-Lived Intangible Asset, Expected Amortization, Year Four",USD,37,2014-03-31,2023-12-31,False
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearThree,"Finite-Lived Intangible Asset, Expected Amortization, Year Three",USD,37,2014-03-31,2023-12-31,False
+us-gaap,PropertyPlantAndEquipmentGross,"Property, Plant and Equipment, Gross",USD,37,2014-03-31,2025-12-31,False
+dei,EntityCommonStockSharesOutstanding,"Entity Common Stock, Shares Outstanding",shares,36,2014-02-21,2022-10-28,False
+us-gaap,OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationAdjustmentNetOfTax,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Adjustment, Net of Tax",USD,36,2014-03-31,2022-03-31,True
+us-gaap,PaymentsOfDividendsCommonStock,"Payments of Ordinary Dividends, Common Stock",USD,36,2014-03-30,2021-12-31,True
+us-gaap,AccountsPayableAndAccruedLiabilitiesCurrent,"Accounts Payable and Accrued Liabilities, Current",USD,35,2014-03-31,2022-09-30,False
+us-gaap,AccumulatedOtherComprehensiveIncomeLossNetOfTax,"Accumulated Other Comprehensive Income (Loss), Net of Tax",USD,35,2014-03-31,2022-09-30,False
+us-gaap,AdditionalPaidInCapitalCommonStock,"Additional Paid in Capital, Common Stock",USD,35,2014-03-31,2022-09-30,False
+us-gaap,AmortizationOfFinancingCosts,Amortization of Debt Issuance Costs,USD,35,2014-03-31,2022-09-30,True
+us-gaap,Assets,Assets,USD,35,2014-03-31,2022-09-30,False
+us-gaap,AssetsCurrent,"Assets, Current",USD,35,2014-03-31,2022-09-30,False
+us-gaap,CashAndCashEquivalentsAtCarryingValue,"Cash and Cash Equivalents, at Carrying Value",USD,35,2014-03-31,2022-09-30,False
+us-gaap,CommonStockParOrStatedValuePerShare,"Common Stock, Par or Stated Value Per Share",USD/shares,35,2014-03-31,2022-09-30,False
+us-gaap,CommonStockSharesAuthorized,"Common Stock, Shares Authorized",shares,35,2014-03-31,2022-09-30,False
+us-gaap,CommonStockSharesIssued,"Common Stock, Shares, Issued",shares,35,2014-03-31,2022-09-30,False
+us-gaap,CommonStockSharesOutstanding,"Common Stock, Shares, Outstanding",shares,35,2014-03-31,2022-09-30,False
+us-gaap,CommonStockValue,"Common Stock, Value, Issued",USD,35,2014-03-31,2022-09-30,False
+us-gaap,Depreciation,Depreciation,USD,35,2014-03-31,2022-09-30,True
+us-gaap,IncomeTaxesReceivable,"Income Taxes Receivable, Current",USD,35,2014-03-31,2022-09-30,False
+us-gaap,InventoryNet,"Inventory, Net",USD,35,2014-03-31,2022-09-30,False
+us-gaap,LiabilitiesAndStockholdersEquity,Liabilities and Equity,USD,35,2014-03-31,2022-09-30,False
+us-gaap,LiabilitiesCurrent,"Liabilities, Current",USD,35,2014-03-31,2022-09-30,False
+us-gaap,LiabilitiesNoncurrent,"Liabilities, Noncurrent",USD,35,2014-03-31,2022-09-30,False
+us-gaap,LiabilityForUncertainTaxPositionsNoncurrent,"Liability for Uncertainty in Income Taxes, Noncurrent",USD,35,2014-03-31,2022-09-30,False
+us-gaap,LongTermDebtCurrent,"Long-term Debt, Current Maturities",USD,35,2014-03-31,2022-09-30,False
+us-gaap,LongTermDebtNoncurrent,"Long-term Debt, Excluding Current Maturities",USD,35,2014-03-31,2022-09-30,False
+us-gaap,OtherAssetsNoncurrent,"Other Assets, Noncurrent",USD,35,2014-03-31,2022-09-30,False
+us-gaap,OtherLiabilitiesNoncurrent,"Other Liabilities, Noncurrent",USD,35,2014-03-31,2022-09-30,False
+us-gaap,PrepaidExpenseAndOtherAssetsCurrent,"Prepaid Expense and Other Assets, Current",USD,35,2014-03-31,2022-09-30,False
+us-gaap,ProceedsFromSaleOfPropertyPlantAndEquipment,"Proceeds from Sale of Property, Plant, and Equipment",USD,35,2014-03-31,2022-09-30,True
+us-gaap,RetainedEarningsAccumulatedDeficit,Retained Earnings (Accumulated Deficit),USD,35,2014-03-31,2022-09-30,False
+us-gaap,StockholdersEquity,Stockholders' Equity Attributable to Parent,USD,35,2014-03-31,2022-09-30,False
+us-gaap,StockholdersEquityIncludingPortionAttributableToNoncontrollingInterest,"Stockholders' Equity, Including Portion Attributable to Noncontrolling Interest",USD,35,2014-03-31,2022-09-30,False
+us-gaap,AccruedIncomeTaxesCurrent,"Accrued Income Taxes, Current",USD,34,2014-03-31,2022-09-30,False
+us-gaap,LongTermDebtFairValue,"Long-term Debt, Fair Value",USD,34,2014-09-30,2026-03-31,False
+us-gaap,CapitalizedContractCostNet,"Capitalized Contract Cost, Net",USD,33,2018-03-31,2026-03-31,False
+us-gaap,ContractWithCustomerAssetNetCurrent,"Contract with Customer, Asset, after Allowance for Credit Loss, Current",USD,33,2018-03-31,2026-03-31,False
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseRemainderOfFiscalYear,"Finite-Lived Intangible Asset, Expected Amortization, Remainder of Fiscal Year",USD,33,2014-03-31,2024-09-30,False
+us-gaap,InvestmentsInAffiliatesSubsidiariesAssociatesAndJointVentures,"Investments in and Advance to Affiliates, Subsidiaries, Associates, and Joint Ventures",USD,33,2014-09-30,2022-09-30,False
+us-gaap,AccountsReceivableNetCurrent,"Accounts Receivable, after Allowance for Credit Loss, Current",USD,32,2014-12-31,2022-09-30,False
+us-gaap,PaymentsRelatedToTaxWithholdingForShareBasedCompensation,"Payment, Tax Withholding, Share-based Payment Arrangement",USD,32,2014-03-31,2021-12-31,True
+us-gaap,FinanceLeasePrincipalPayments,"Finance Lease, Principal Payments",USD,31,2017-12-31,2026-03-31,True
+us-gaap,LongTermDebt,Long-term Debt,USD,31,2014-03-31,2021-09-30,False
+us-gaap,RepaymentsOfLongTermDebt,Repayments of Long-term Debt,USD,31,2014-12-31,2022-09-30,True
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseYearFive,"Finite-Lived Intangible Asset, Expected Amortization, Year Five",USD,30,2014-03-31,2023-12-31,False
+us-gaap,ProceedsFromPaymentsForOtherFinancingActivities,Proceeds from (Payments for) Other Financing Activities,USD,30,2014-03-31,2022-09-30,True
+us-gaap,FinanceLeaseInterestPaymentOnLiability,"Finance Lease, Interest Payment on Liability",USD,29,2019-03-31,2026-03-31,True
+us-gaap,OperatingLeasePayments,"Operating Lease, Payments",USD,29,2019-03-31,2026-03-31,True
+us-gaap,SalesRevenueNet,"Revenue, Net (Deprecated 2018-01-31)",USD,29,2014-03-31,2018-03-31,True
+us-gaap,FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersOutOfLevel3,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset, Transfers out of Level 3",USD,28,2015-12-31,2023-12-31,True
+us-gaap,NetCashProvidedByUsedInFinancingActivities,Net Cash Provided by (Used in) Financing Activities,USD,28,2014-03-31,2022-09-30,True
+us-gaap,NetCashProvidedByUsedInInvestingActivities,Net Cash Provided by (Used in) Investing Activities,USD,28,2014-03-31,2022-09-30,True
+us-gaap,NetCashProvidedByUsedInOperatingActivities,Net Cash Provided by (Used in) Operating Activities,USD,28,2014-03-31,2022-09-30,True
+us-gaap,OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationAfterTax,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), before Reclassification, after Tax",USD,28,2017-12-31,2022-06-30,True
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseAfterYearFive,"Finite-Lived Intangible Asset, Expected Amortization, after Year Five",USD,27,2014-03-31,2020-12-31,False
+us-gaap,IncreaseDecreaseInOtherOperatingCapitalNet,"Increase (Decrease) in Other Operating Assets and Liabilities, Net",USD,27,2014-03-31,2022-09-30,True
+us-gaap,LiabilityForUncertainTaxPositionsCurrent,"Liability for Uncertainty in Income Taxes, Current",USD,27,2014-03-31,2020-12-31,False
+us-gaap,FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisAssetTransfersIntoLevel3,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Asset Transfers Into Level 3",USD,26,2015-12-31,2023-09-30,True
+us-gaap,FiniteLivedIntangibleAssetsAmortizationExpenseNextTwelveMonths,"Finite-Lived Intangible Asset, Expected Amortization, Year One",USD,26,2014-12-31,2025-06-30,False
+us-gaap,GainsLossesOnExtinguishmentOfDebt,Gain (Loss) on Extinguishment of Debt,USD,26,2019-12-31,2025-12-31,True
+us-gaap,IncrementalCommonSharesAttributableToShareBasedPaymentArrangements,Incremental Common Shares Attributable to Dilutive Effect of Share-based Payment Arrangements,shares,26,2020-12-31,2026-03-31,True
+us-gaap,RightOfUseAssetObtainedInExchangeForOperatingLeaseLiability,Right-of-Use Asset Obtained in Exchange for Operating Lease Liability,USD,26,2019-12-31,2026-03-31,True
+us-gaap,AdjustmentsRelatedToTaxWithholdingForShareBasedCompensation,"Share-based Payment Arrangement, Decrease for Tax Withholding Obligation",USD,25,2014-03-31,2022-03-31,True
+us-gaap,AdmissionsRevenue,Admissions Revenue (Deprecated 2018-01-31),USD,25,2014-03-31,2018-03-31,True
+us-gaap,ConcessionsCosts,Concessions Costs (Deprecated 2018-01-31),USD,25,2014-03-31,2018-03-31,True
+us-gaap,ConcessionsRevenue,Concessions Revenue (Deprecated 2018-01-31),USD,25,2014-03-31,2018-03-31,True
+us-gaap,DividendsCommonStockCash,"Dividends, Common Stock, Cash",USD,25,2014-12-31,2020-12-31,True
+us-gaap,IncrementalCommonSharesAttributableToCallOptionsAndWarrants,Incremental Common Shares Attributable to Dilutive Effect of Call Options and Warrants,shares,25,2021-12-31,2026-03-31,True
+us-gaap,IncrementalCommonSharesAttributableToConversionOfDebtSecurities,Incremental Common Shares Attributable to Dilutive Effect of Conversion of Debt Securities,shares,25,2021-12-31,2026-03-31,True
+us-gaap,InterestOnConvertibleDebtNetOfTax,"Interest on Convertible Debt, Net of Tax",USD,25,2021-12-31,2026-03-31,True
+us-gaap,NetIncomeLossAvailableToCommonStockholdersDiluted,"Net Income (Loss) Available to Common Stockholders, Diluted",USD,25,2021-12-31,2026-03-31,True
+us-gaap,OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodTax,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Tax",USD,25,2014-03-31,2018-12-31,True
+us-gaap,OtherSalesRevenueNet,"Other Revenue, Net (Deprecated 2018-01-31)",USD,25,2014-03-31,2018-03-31,True
+us-gaap,DeferredRentCreditNoncurrent,"Deferred Rent Credit, Noncurrent",USD,24,2014-03-31,2019-12-31,False
+us-gaap,DeferredTaxLiabilitiesNoncurrent,"Deferred Tax Liabilities, Net, Noncurrent",USD,24,2014-03-31,2019-12-31,False
+us-gaap,OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax,"Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Net of Tax",USD,24,2014-03-31,2018-12-31,True
+us-gaap,PaymentsOfDebtIssuanceCosts,Payments of Debt Issuance Costs,USD,24,2015-06-30,2022-09-30,True
+us-gaap,RestructuringCosts,Restructuring Costs,USD,24,2019-12-31,2024-12-31,True
+us-gaap,DeferredTaxAssetsNetNoncurrent,"Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",USD,23,2014-03-31,2019-12-31,False
+us-gaap,MinorityInterestDecreaseFromDistributionsToNoncontrollingInterestHolders,"Noncontrolling Interest, Decrease from Distributions to Noncontrolling Interest Holders",USD,23,2014-06-30,2022-09-30,True
+us-gaap,CapitalLeaseObligationsIncurred,Lease Obligation Incurred,USD,22,2017-06-30,2025-12-31,True
+us-gaap,CashAndCashEquivalentsPeriodIncreaseDecrease,"Cash and Cash Equivalents, Period Increase (Decrease)",USD,22,2014-03-31,2019-06-30,True
+us-gaap,EffectOfExchangeRateOnCashAndCashEquivalents,Effect of Exchange Rate on Cash and Cash Equivalents,USD,22,2014-03-31,2019-06-30,True
+us-gaap,OtherComprehensiveIncomeLossCashFlowHedgeGainLossBeforeReclassificationTax,"Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), before Reclassification, Tax",USD,22,2017-12-31,2021-12-31,True
+us-gaap,FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilityGainLossIncludedInOtherComprehensiveIncome,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Gain (Loss) Included in Other Comprehensive Income (Loss)",USD,21,2014-03-31,2019-12-31,True
+us-gaap,RepaymentsOfLongTermCapitalLeaseObligations,Repayments of Long-term Capital Lease Obligations,USD,21,2014-03-31,2019-03-31,True
+us-gaap,SegmentExpenditureAdditionToLongLivedAssets,,USD,21,2021-12-31,2026-03-31,True
+us-gaap,CapitalLeaseObligationsCurrent,"Capital Lease Obligations, Current",USD,20,2014-03-31,2018-12-31,False
+us-gaap,CapitalLeaseObligationsNoncurrent,"Capital Lease Obligations, Noncurrent",USD,20,2014-03-31,2018-12-31,False
+us-gaap,FairValueAssetsLevel1ToLevel2TransfersAmount,"Fair Value, Assets, Level 1 to Level 2 Transfers, Amount",USD,20,2015-12-31,2022-03-31,False
+us-gaap,FairValueAssetsLevel2ToLevel1TransfersAmount,"Fair Value, Assets, Level 2 to Level 1 Transfers, Amount",USD,20,2015-12-31,2022-03-31,False
+us-gaap,FairValueMeasurementWithUnobservableInputsReconciliationRecurringBasisLiabilitySettlements,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability, Settlements",USD,20,2014-03-31,2019-12-31,True
+us-gaap,OperatingLeaseLiabilityCurrent,"Operating Lease, Liability, Current",USD,20,2018-12-31,2025-12-31,False
+us-gaap,OperatingLeaseLiabilityNoncurrent,"Operating Lease, Liability, Noncurrent",USD,20,2018-12-31,2025-12-31,False
+us-gaap,OperatingLeaseRightOfUseAsset,"Operating Lease, Right-of-Use Asset",USD,20,2018-12-31,2025-12-31,False
+us-gaap,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Including Disposal Group and Discontinued Operations",USD,19,2016-12-31,2022-09-30,False
+us-gaap,FinanceLeaseLiabilityCurrent,"Finance Lease, Liability, Current",USD,19,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityNoncurrent,"Finance Lease, Liability, Noncurrent",USD,19,2019-03-31,2025-12-31,False
+us-gaap,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsPeriodIncreaseDecreaseIncludingExchangeRateEffect,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Period Increase (Decrease), Including Exchange Rate Effect",USD,18,2017-12-31,2022-09-30,True
+us-gaap,EffectOfExchangeRateOnCashCashEquivalentsRestrictedCashAndRestrictedCashEquivalentsIncludingDisposalGroupAndDiscontinuedOperations,"Effect of Exchange Rate on Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents, Including Disposal Group and Discontinued Operations",USD,18,2017-12-31,2022-09-30,True
+us-gaap,FairValueMeasurementWithUnobservableInputsReconciliationsRecurringBasisLiabilityValue,"Fair Value, Measurement with Unobservable Inputs Reconciliation, Recurring Basis, Liability Value",USD,18,2014-03-31,2019-12-31,False
+us-gaap,GoodwillAcquiredDuringPeriod,"Goodwill, Acquired During Period",USD,18,2014-12-31,2019-12-31,True
+us-gaap,IndefinitelivedIntangibleAssetsAcquired,Indefinite-lived Intangible Assets Acquired,USD,18,2014-12-31,2025-12-31,True
+us-gaap,OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodTax,"OCI, Debt Securities, Available-for-Sale, Unrealized Holding Gain (Loss), before Adjustment, Tax",USD,18,2014-03-31,2017-12-31,True
+us-gaap,Dividends,Dividends,USD,17,2017-12-31,2025-12-31,True
+us-gaap,InterestExpenseNonoperating,,USD,17,2022-12-31,2026-03-31,True
+us-gaap,InterestPaidNet,"Interest Paid, Excluding Capitalized Interest, Operating Activities",USD,17,2019-12-31,2026-03-31,True
+us-gaap,NetCashProvidedByUsedInFinancingActivitiesContinuingOperations,"Net Cash Provided by (Used in) Financing Activities, Continuing Operations",USD,16,2014-06-30,2018-03-31,True
+us-gaap,NetCashProvidedByUsedInInvestingActivitiesContinuingOperations,"Net Cash Provided by (Used in) Investing Activities, Continuing Operations",USD,16,2014-06-30,2018-03-31,True
+us-gaap,NetCashProvidedByUsedInOperatingActivitiesContinuingOperations,"Net Cash Provided by (Used in) Operating Activities, Continuing Operations",USD,16,2014-06-30,2018-03-31,True
+us-gaap,CommonStockDividendsPerShareCashPaid,"Common Stock, Dividends, Per Share, Cash Paid",USD/shares,15,2014-12-31,2020-12-31,True
+us-gaap,DeferredFinanceCostsNet,"Debt Issuance Costs, Net",USD,15,2014-12-31,2022-06-30,False
+us-gaap,RecognitionOfDeferredRevenue,Recognition of Deferred Revenue,USD,15,2014-12-31,2018-09-30,True
+us-gaap,RightOfUseAssetObtainedInExchangeForFinanceLeaseLiability,Right-of-Use Asset Obtained in Exchange for Finance Lease Liability,USD,15,2019-12-31,2025-12-31,True
+us-gaap,CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents,"Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",USD,14,2020-12-31,2025-12-31,False
+us-gaap,CommitmentsAndContingencies,Commitments and Contingencies,USD,14,2016-12-31,2021-03-31,False
+us-gaap,OtherComprehensiveIncomeUnrealizedHoldingGainLossOnSecuritiesArisingDuringPeriodNetOfTax,"OCI, Debt Securities, Available-for-Sale, Unrealized Holding Gain (Loss), before Adjustment, after Tax",USD,14,2014-03-31,2017-12-31,True
+us-gaap,PaymentsToAcquireBusinessesNetOfCashAcquired,"Payments to Acquire Businesses, Net of Cash Acquired",USD,14,2014-12-31,2021-12-31,True
+us-gaap,ContractWithCustomerLiability,"Contract with Customer, Liability",USD,13,2017-12-31,2021-03-31,False
+us-gaap,DebtInstrumentCarryingAmount,"Long-term Debt, Gross",USD,13,2015-12-31,2025-12-31,False
+us-gaap,DebtInstrumentInterestRateStatedPercentage,"Debt Instrument, Interest Rate, Stated Percentage",pure,13,2020-12-31,2024-12-31,False
+us-gaap,ImpairmentOfLongLivedAssetsHeldForUse,Impairment of Long-Lived Assets Held-for-use,USD,13,2014-03-31,2016-03-31,True
+us-gaap,ProceedsFromIssuanceOfSeniorLongTermDebt,Proceeds from Issuance of Senior Long-term Debt,USD,13,2016-03-31,2022-09-30,True
+us-gaap,AmortizationOfDeferredHedgeGains,Amortization of Deferred Hedge Gains,USD,12,2019-12-31,2022-09-30,True
+us-gaap,ContractWithCustomerLiabilityRevenueRecognized,"Contract with Customer, Liability, Revenue Recognized",USD,12,2018-06-30,2021-03-31,True
+us-gaap,CurrentFederalTaxExpenseBenefit,Current Federal Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,CurrentForeignTaxExpenseBenefit,Current Foreign Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,CurrentIncomeTaxExpenseBenefit,Current Income Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,CurrentStateAndLocalTaxExpenseBenefit,Current State and Local Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,DeferredFederalIncomeTaxExpenseBenefit,Deferred Federal Income Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,DeferredForeignIncomeTaxExpenseBenefit,Deferred Foreign Income Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,DeferredIncomeTaxLiabilities,"Deferred Tax Liabilities, Gross",USD,12,2014-12-31,2025-12-31,False
+us-gaap,DeferredIncomeTaxLiabilitiesNet,"Deferred Income Tax Liabilities, Net",USD,12,2019-12-31,2022-09-30,False
+us-gaap,DeferredStateAndLocalIncomeTaxExpenseBenefit,Deferred State and Local Income Tax Expense (Benefit),USD,12,2014-12-31,2025-12-31,True
+us-gaap,DeferredTaxAssetsGross,"Deferred Tax Assets, Gross",USD,12,2014-12-31,2025-12-31,False
+us-gaap,DeferredTaxAssetsTaxDeferredExpenseOther,"Deferred Tax Assets, Tax Deferred Expense, Other",USD,12,2014-12-31,2025-12-31,False
+us-gaap,DeferredTaxLiabilitiesGoodwillAndIntangibleAssetsIntangibleAssets,"Deferred Tax Liabilities, Intangible Assets",USD,12,2014-12-31,2025-12-31,False
+us-gaap,DeferredTaxLiabilitiesOtherFiniteLivedAssets,"Deferred Tax Liabilities, Other Finite-Lived Assets",USD,12,2014-12-31,2025-12-31,False
+us-gaap,DeferredTaxLiabilitiesPropertyPlantAndEquipment,"Deferred Tax Liabilities, Property, Plant and Equipment",USD,12,2014-12-31,2025-12-31,False
+dei,EntityPublicFloat,Entity Public Float,USD,12,2014-06-30,2025-06-30,False
+us-gaap,IncomeLossFromContinuingOperationsBeforeIncomeTaxesDomestic,"Income (Loss) from Continuing Operations before Income Taxes, Domestic",USD,12,2014-12-31,2025-12-31,True
+us-gaap,IncomeLossFromContinuingOperationsBeforeIncomeTaxesForeign,"Income (Loss) from Continuing Operations before Income Taxes, Foreign",USD,12,2014-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationIncomeTaxExpenseBenefitAtFederalStatutoryIncomeTaxRate,"Effective Income Tax Rate Reconciliation at Federal Statutory Income Tax Rate, Amount",USD,12,2014-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationStateAndLocalIncomeTaxes,"Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Amount",USD,12,2014-12-31,2025-12-31,True
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInNextTwelveMonths,"Long-Term Debt, Maturity, Year One",USD,12,2014-12-31,2025-12-31,False
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFive,"Long-Term Debt, Maturity, Year Five",USD,12,2014-12-31,2025-12-31,False
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearFour,"Long-Term Debt, Maturity, Year Four",USD,12,2014-12-31,2025-12-31,False
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearThree,"Long-Term Debt, Maturity, Year Three",USD,12,2014-12-31,2025-12-31,False
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalInYearTwo,"Long-Term Debt, Maturity, Year Two",USD,12,2014-12-31,2025-12-31,False
+us-gaap,OtherAccruedLiabilitiesCurrent,"Other Accrued Liabilities, Current",USD,12,2014-12-31,2025-12-31,False
+us-gaap,RevenueRemainingPerformanceObligation,"Revenue, Remaining Performance Obligation, Amount",USD,12,2018-03-31,2026-03-31,False
+us-gaap,UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Expense",USD,12,2014-12-31,2025-12-31,True
+us-gaap,UnrecognizedTaxBenefitsThatWouldImpactEffectiveTaxRate,Unrecognized Tax Benefits that Would Impact Effective Tax Rate,USD,12,2014-12-31,2025-12-31,False
+us-gaap,AdjustmentsToAdditionalPaidInCapitalTaxEffectFromShareBasedCompensation,"Adjustments to Additional Paid in Capital, Income Tax Benefit from Share-based Compensation",USD,11,2014-03-31,2016-12-31,True
+us-gaap,CashAndCashEquivalentsAtCarryingValueIncludingDiscontinuedOperations,"Cash and Cash Equivalents, at Carrying Value, Including Discontinued Operations",USD,11,2015-12-31,2019-06-30,False
+us-gaap,ConsolidationLessThanWhollyOwnedSubsidiaryParentOwnershipInterestChangesNet,"Consolidation, Less than Wholly Owned Subsidiary, Parent Ownership Interest, Changes, Net",USD,11,2015-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationForeignIncomeTaxRateDifferential,"Effective Income Tax Rate Reconciliation, Foreign Income Tax Rate Differential, Amount",USD,11,2014-12-31,2024-12-31,True
+us-gaap,IncomeTaxReconciliationOtherAdjustments,"Effective Income Tax Rate Reconciliation, Other Adjustments, Amount",USD,11,2014-12-31,2024-12-31,True
+us-gaap,IncomeTaxReconciliationTaxContingencies,"Effective Income Tax Rate Reconciliation, Tax Contingency, Amount",USD,11,2014-12-31,2024-12-31,True
+us-gaap,LongTermDebtMaturitiesRepaymentsOfPrincipalAfterYearFive,"Long-Term Debt, Maturity, after Year Five",USD,11,2014-12-31,2025-12-31,False
+us-gaap,OtherExpenses,Other Expenses,USD,11,2020-03-31,2022-03-31,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeituresWeightedAverageGrantDateFairValue,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Forfeitures, Weighted Average Grant Date Fair Value",USD/shares,11,2021-12-31,2025-09-30,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period, Weighted Average Grant Date Fair Value",USD/shares,11,2021-12-31,2025-09-30,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriodWeightedAverageGrantDateFairValue,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Vested in Period, Weighted Average Grant Date Fair Value",USD/shares,11,2021-12-31,2025-09-30,True
+us-gaap,DebtInstrumentConvertibleIfConvertedValueInExcessOfPrincipal,"Debt Instrument, Convertible, If-converted Value in Excess of Principal",USD,10,2021-12-31,2025-12-31,True
+us-gaap,DeferredTaxAssetsOtherLossCarryforwards,"Deferred Tax Assets, Other Loss Carryforwards",USD,10,2016-12-31,2025-12-31,False
+us-gaap,DeferredTaxLiabilities,"Deferred Tax Liabilities, Net",USD,10,2014-12-31,2023-12-31,False
+us-gaap,FinanceLeaseLiability,"Finance Lease, Liability",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDue,"Finance Lease, Liability, Payment, Due",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueAfterYearFive,"Finance Lease, Liability, to be Paid, after Year Five",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueYearFive,"Finance Lease, Liability, to be Paid, Year Five",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueYearFour,"Finance Lease, Liability, to be Paid, Year Four",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueYearThree,"Finance Lease, Liability, to be Paid, Year Three",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueYearTwo,"Finance Lease, Liability, to be Paid, Year Two",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityUndiscountedExcessAmount,"Finance Lease, Liability, Undiscounted Excess Amount",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinanceLeaseRightOfUseAsset,"Finance Lease, Right-of-Use Asset, after Accumulated Amortization",USD,10,2019-03-31,2025-12-31,False
+us-gaap,FinitelivedIntangibleAssetsAcquired1,Finite-lived Intangible Assets Acquired,USD,10,2014-12-31,2018-12-31,True
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDue,"Lessee, Operating Lease, Liability, to be Paid",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueAfterYearFive,"Lessee, Operating Lease, Liability, to be Paid, after Year Five",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearFive,"Lessee, Operating Lease, Liability, to be Paid, Year Five",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearFour,"Lessee, Operating Lease, Liability, to be Paid, Year Four",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearThree,"Lessee, Operating Lease, Liability, to be Paid, Year Three",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueYearTwo,"Lessee, Operating Lease, Liability, to be Paid, Year Two",USD,10,2019-03-31,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityUndiscountedExcessAmount,"Lessee, Operating Lease, Liability, Undiscounted Excess Amount",USD,10,2019-03-31,2025-12-31,False
+us-gaap,OperatingLeaseLiability,"Operating Lease, Liability",USD,10,2019-03-31,2025-12-31,False
+us-gaap,OtherComprehensiveIncomeLossBeforeReclassificationsNetOfTax,"Other Comprehensive Income (Loss), before Reclassifications, Net of Tax",USD,10,2020-06-30,2025-12-31,True
+us-gaap,ProceedsFromOtherDebt,Proceeds from Other Debt,USD,10,2019-12-31,2022-09-30,True
+us-gaap,TreasuryStockPreferredShares,"Treasury Stock, Preferred, Shares",shares,10,2022-12-31,2025-09-30,False
+us-gaap,UnrecognizedTaxBenefits,Unrecognized Tax Benefits,USD,10,2014-12-31,2023-12-31,False
+us-gaap,UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities,"Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities",USD,10,2014-12-31,2023-12-31,True
+us-gaap,UnrecognizedTaxBenefitsIncreasesResultingFromCurrentPeriodTaxPositions,"Unrecognized Tax Benefits, Increase Resulting from Current Period Tax Positions",USD,10,2014-12-31,2023-12-31,True
+us-gaap,AmortizationOfDeferredCharges,Amortization of Deferred Charges,USD,9,2014-03-31,2016-03-31,True
+us-gaap,DeferredTaxLiabilitiesInvestmentInNoncontrolledAffiliates,"Deferred Tax Liabilities, Investment in Noncontrolled Affiliates",USD,9,2014-12-31,2022-12-31,False
+us-gaap,DerivativeLiabilitiesCurrent,"Derivative Liability, Current",USD,9,2014-03-31,2016-03-31,False
+us-gaap,GoodwillTranslationAdjustments,"Goodwill, Translation Adjustments (Deprecated 2016-01-31)",USD,9,2014-03-31,2016-03-31,True
+us-gaap,IncomeTaxReconciliationChangeInDeferredTaxAssetsValuationAllowance,"Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Amount",USD,9,2017-12-31,2025-12-31,True
+us-gaap,NumberOfInterestRateDerivativesHeld,Number of Interest Rate Derivatives Held,Agreement,9,2014-03-31,2016-03-31,False
+us-gaap,OtherLongTermDebt,Other Long-term Debt,USD,9,2014-12-31,2022-06-30,False
+us-gaap,PaymentsOfDebtExtinguishmentCosts,Payment for Debt Extinguishment or Debt Prepayment Cost,USD,9,2019-12-31,2022-03-31,True
+us-gaap,PreferredStockSharesIssued,"Preferred Stock, Shares Issued",shares,9,2017-12-31,2025-12-31,False
+us-gaap,UnrecognizedTaxBenefitsDecreasesResultingFromPriorPeriodTaxPositions,"Unrecognized Tax Benefits, Decrease Resulting from Prior Period Tax Positions",USD,9,2014-12-31,2023-12-31,True
+us-gaap,UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestAccrued,"Unrecognized Tax Benefits, Income Tax Penalties and Interest Accrued",USD,9,2014-12-31,2022-12-31,False
+us-gaap,UnrecognizedTaxBenefitsIncreasesResultingFromPriorPeriodTaxPositions,"Unrecognized Tax Benefits, Increase Resulting from Prior Period Tax Positions",USD,9,2014-12-31,2023-12-31,True
+us-gaap,AccountsPayableCurrent,"Accounts Payable, Current",USD,8,2014-12-31,2021-12-31,False
+us-gaap,AccrualForTaxesOtherThanIncomeTaxesCurrent,"Accrual for Taxes Other than Income Taxes, Current",USD,8,2014-12-31,2021-12-31,False
+us-gaap,AssetsFairValueDisclosureRecurring,"Assets, Fair Value Disclosure, Recurring (Deprecated 2018-01-31)",USD,8,2016-06-30,2018-03-31,False
+us-gaap,BuildingsAndImprovementsGross,"Buildings and Improvements, Gross",USD,8,2014-12-31,2021-12-31,False
+us-gaap,IncreaseDecreaseInAccountsPayableAndAccruedLiabilities,Increase (Decrease) in Accounts Payable and Accrued Liabilities,USD,8,2014-12-31,2021-12-31,True
+us-gaap,IncreaseDecreaseInAccountsReceivable,Increase (Decrease) in Accounts Receivable,USD,8,2014-12-31,2021-12-31,True
+us-gaap,IncreaseDecreaseInAccruedIncomeTaxesPayable,Increase (Decrease) in Income Taxes Payable,USD,8,2014-12-31,2021-12-31,True
+us-gaap,IncreaseDecreaseInIncomeTaxesReceivable,Increase (Decrease) in Income Taxes Receivable,USD,8,2014-12-31,2021-12-31,True
+us-gaap,IncreaseDecreaseInInventories,Increase (Decrease) in Inventories,USD,8,2014-12-31,2021-12-31,True
+us-gaap,IncreaseDecreaseInOtherNoncurrentLiabilities,Increase (Decrease) in Other Noncurrent Liabilities,USD,8,2014-12-31,2021-12-31,True
+us-gaap,Land,Land,USD,8,2014-12-31,2021-12-31,False
+us-gaap,LeaseholdImprovementsGross,"Leasehold Improvements, Gross",USD,8,2014-12-31,2021-12-31,False
+us-gaap,LiabilitiesFairValueDisclosureRecurring,"Liabilities, Fair Value Disclosure, Recurring (Deprecated 2018-01-31)",USD,8,2016-06-30,2018-03-31,False
+us-gaap,PaymentsOfDebtRestructuringCosts,Payments of Debt Restructuring Costs,USD,8,2016-12-31,2018-12-31,True
+us-gaap,PreferredStockSharesOutstanding,"Preferred Stock, Shares Outstanding",shares,8,2017-12-31,2025-12-31,False
+us-gaap,RepaymentsOfOtherLongTermDebt,Repayments of Other Long-term Debt,USD,8,2014-03-31,2015-12-31,True
+us-gaap,DeferredTaxAssetsDeferredIncome,"Deferred Tax Assets, Deferred Income",USD,7,2014-12-31,2022-12-31,False
+us-gaap,DeferredTaxAssetsNetCurrent,"Deferred Tax Assets, Net of Valuation Allowance, Current",USD,7,2014-03-31,2015-09-30,False
+us-gaap,DeferredTaxAssetsValuationAllowance,"Deferred Tax Assets, Valuation Allowance",USD,7,2019-12-31,2025-12-31,False
+us-gaap,FinanceLeaseLiabilityPaymentsDueNextTwelveMonths,"Finance Lease, Liability, to be Paid, Year One",USD,7,2019-12-31,2025-12-31,False
+us-gaap,FinanceLeaseRightOfUseAssetAccumulatedAmortization,"Finance Lease, Right-of-Use Asset, Accumulated Amortization",USD,7,2019-12-31,2025-12-31,False
+us-gaap,FiniteLivedContractualRightsGross,"Finite-Lived Contractual Rights, Gross",USD,7,2024-06-30,2025-12-31,False
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsDueNextTwelveMonths,"Lessee, Operating Lease, Liability, to be Paid, Year One",USD,7,2019-12-31,2025-12-31,False
+us-gaap,NumberOfReportableSegments,Number of Reportable Segments,Segment,7,2014-12-31,2020-12-31,True
+us-gaap,OtherAmortizationOfDeferredCharges,Amortization of Other Deferred Charges,USD,7,2024-06-30,2025-12-31,True
+us-gaap,ValuationAllowancesAndReservesBalance,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Amount",USD,7,2019-12-31,2025-12-31,False
+us-gaap,AccumulatedAmortizationDeferredFinanceCosts,"Accumulated Amortization, Debt Issuance Costs",USD,6,2014-12-31,2019-12-31,False
+us-gaap,DeferredIncomeTaxAssetsNet,"Deferred Income Tax Assets, Net",USD,6,2019-12-31,2023-12-31,False
+us-gaap,DeferredTaxAssetsValuationAllowanceNoncurrent,"Deferred Tax Assets, Valuation Allowance, Noncurrent",USD,6,2014-12-31,2019-12-31,False
+us-gaap,DerivativeFairValueOfDerivativeNet,"Derivative, Fair Value, Net",USD,6,2014-03-31,2015-06-30,False
+us-gaap,FixturesAndEquipmentGross,"Fixtures and Equipment, Gross",USD,6,2016-12-31,2021-12-31,False
+us-gaap,GoodwillImpairmentLoss,"Goodwill, Impairment Loss",USD,6,2016-12-31,2020-12-31,True
+us-gaap,IndefiniteLivedIntangibleAssetsExcludingGoodwill,Indefinite-lived Intangible Assets (Excluding Goodwill),USD,6,2021-09-30,2024-09-30,False
+us-gaap,NumberOfReportableSegments,Number of Reportable Segments,Segments,6,2020-12-31,2025-12-31,True
+us-gaap,OtherAssetsMiscellaneous,"Other Assets, Miscellaneous",USD,6,2014-12-31,2019-12-31,False
+us-gaap,OtherComprehensiveIncomeLossDerivativesQualifyingAsHedgesNetOfTax,"Other Comprehensive Income (Loss), Derivatives Qualifying as Hedges, Net of Tax",USD,6,2014-03-31,2015-09-30,True
+us-gaap,OtherOperatingIncome,Other Operating Income,USD,6,2014-03-31,2014-12-31,True
+us-gaap,ProceedsFromIssuanceOfOtherLongTermDebt,Proceeds from Issuance of Other Long-term Debt,USD,6,2016-03-31,2017-09-30,True
+us-gaap,ProceedsFromSaleAndMaturityOfMarketableSecurities,Proceeds from Sale and Maturity of Marketable Securities,USD,6,2016-03-31,2017-09-30,True
+us-gaap,RepaymentsOfSubordinatedDebt,Repayments of Subordinated Debt,USD,6,2016-03-31,2017-09-30,True
+us-gaap,TreasuryStockCommonShares,"Treasury Stock, Common, Shares",shares,6,2021-12-31,2026-03-31,False
+us-gaap,UndistributedEarningsOfForeignSubsidiaries,Undistributed Earnings of Foreign Subsidiaries,USD,6,2014-12-31,2020-12-31,False
+us-gaap,ValuationAllowancesAndReservesDeductions,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Deduction",USD,6,2020-12-31,2025-12-31,True
+us-gaap,AdjustmentToAdditionalPaidInCapitalIncomeTaxEffectFromShareBasedCompensationNet,"Adjustment to Additional Paid in Capital, Income Tax Effect from Share-based Compensation, Net",USD,5,2015-12-31,2017-12-31,True
+us-gaap,CapitalLeasedAssetsGross,"Capital Leased Assets, Gross",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDue,"Capital Leases, Future Minimum Payments Due",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueCurrent,"Capital Leases, Future Minimum Payments Due, Next Twelve Months",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueInFiveYears,"Capital Leases, Future Minimum Payments Due in Five Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueInFourYears,"Capital Leases, Future Minimum Payments Due in Four Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueInThreeYears,"Capital Leases, Future Minimum Payments Due in Three Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueInTwoYears,"Capital Leases, Future Minimum Payments Due in Two Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsDueThereafter,"Capital Leases, Future Minimum Payments Due Thereafter",USD,5,2014-12-31,2018-12-31,False
+us-gaap,CapitalLeasesFutureMinimumPaymentsPresentValueOfNetMinimumPayments,"Capital Leases, Future Minimum Payments, Present Value of Net Minimum Payments",USD,5,2014-12-31,2018-12-31,False
+us-gaap,ConsolidationLessThanWhollyOwnedSubsidiaryParentOwnershipInterestChangeDueToNetIncomeAttributableToParentAndEffectsOfChangesNet,"Consolidation, Less than Wholly Owned Subsidiary, Parent Ownership Interest, Change Due to Net Income Attributable to Parent and Effects of Changes, Net",USD,5,2014-12-31,2018-12-31,True
+us-gaap,DerivativeLiabilitiesNoncurrent,"Derivative Liability, Noncurrent",USD,5,2014-03-31,2015-03-31,False
+us-gaap,DividendsCommonStock,"Dividends, Common Stock",USD,5,2014-12-31,2018-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate,"Effective Income Tax Rate Reconciliation, at Federal Statutory Income Tax Rate, Percent",pure,5,2017-12-31,2025-12-31,True
+us-gaap,FinanceLeaseRightOfUseAssetAmortization,"Finance Lease, Right-of-Use Asset, Amortization",USD,5,2021-12-31,2025-12-31,True
+us-gaap,ForeignIncomeTaxExpenseBenefitContinuingOperations,"Foreign Income Tax Expense (Benefit), Continuing Operations",USD,5,2021-12-31,2025-12-31,True
+us-gaap,OperatingLeasesFutureMinimumPaymentsDue,"Operating Leases, Future Minimum Payments Due",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueCurrent,"Operating Leases, Future Minimum Payments Due, Next Twelve Months",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueInFiveYears,"Operating Leases, Future Minimum Payments, Due in Five Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueInFourYears,"Operating Leases, Future Minimum Payments, Due in Four Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueInThreeYears,"Operating Leases, Future Minimum Payments, Due in Three Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueInTwoYears,"Operating Leases, Future Minimum Payments, Due in Two Years",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesFutureMinimumPaymentsDueThereafter,"Operating Leases, Future Minimum Payments, Due Thereafter",USD,5,2014-12-31,2018-12-31,False
+us-gaap,OperatingLeasesRentExpenseContingentRentals,"Operating Leases, Rent Expense, Contingent Rentals",USD,5,2014-12-31,2018-12-31,True
+us-gaap,OperatingLeasesRentExpenseMinimumRentals,"Operating Leases, Rent Expense, Minimum Rentals",USD,5,2014-12-31,2018-12-31,True
+us-gaap,OperatingLeasesRentExpenseNet,"Operating Leases, Rent Expense, Net",USD,5,2014-12-31,2018-12-31,True
+us-gaap,ProceedsFromConvertibleDebt,Proceeds from Convertible Debt,USD,5,2019-12-31,2021-12-31,True
+us-gaap,ProceedsFromIssuanceOfWarrants,Proceeds from Issuance of Warrants,USD,5,2019-12-31,2021-12-31,True
+us-gaap,RestrictedStockValueSharesIssuedNetOfTaxWithholdings,"Restricted Stock, Value, Shares Issued Net of Tax Withholdings",USD,5,2021-06-30,2022-09-30,True
+us-gaap,ValuationAllowancesAndReservesRecoveries,"SEC Schedule, 12-09, Valuation Allowances and Reserves, Addition, Recovery",USD,5,2021-12-31,2025-12-31,True
+us-gaap,CapitalLeasesFutureMinimumPaymentsInterestIncludedInPayments,"Capital Leases, Future Minimum Payments, Interest Included in Payments",USD,4,2015-12-31,2018-12-31,False
+us-gaap,CumulativeEffectOnRetainedEarningsTax1,"Cumulative Effect on Retained Earnings, Tax (Deprecated 2020-01-31)",USD,4,2018-03-31,2019-03-31,True
+us-gaap,DebtInstrumentInterestRateIncreaseDecrease,"Debt Instrument, Interest Rate, Increase (Decrease)",pure,4,2016-06-13,2018-03-29,True
+us-gaap,DeferredTaxAssetsTaxDeferredExpenseReservesAndAccrualsAccruedLiabilities,"Deferred Tax Assets, Tax Deferred Expense, Reserves and Accruals, Accrued Liabilities",USD,4,2020-12-31,2023-12-31,False
+us-gaap,EmployeeServiceShareBasedCompensationTaxBenefitRealizedFromExerciseOfStockOptions,"Employee Service Share-based Compensation, Tax Benefit Realized from Exercise of Stock Options (Deprecated 2017-01-31)",USD,4,2014-03-31,2014-12-31,True
+us-gaap,IncomeTaxReconciliationTaxCreditsForeign,"Effective Income Tax Rate Reconciliation, Tax Credit, Foreign, Amount",USD,4,2016-12-31,2025-12-31,True
+us-gaap,NewAccountingPronouncementOrChangeInAccountingPrincipleEffectOfAdoptionQuantification,"New Accounting Pronouncement or Change in Accounting Principle, Effect of Adoption, Quantification (Deprecated 2020-01-31)",USD,4,2018-03-31,2019-12-31,True
+us-gaap,OtherComprehensiveIncomeLossForeignCurrencyTranslationAdjustmentTax,"Other Comprehensive Income (Loss), Foreign Currency Translation Adjustment, Tax",USD,4,2014-12-31,2016-03-31,True
+us-gaap,OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",USD,4,2016-03-31,2016-12-31,True
+us-gaap,OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesTax,"Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Tax",USD,4,2016-03-31,2016-12-31,True
+us-gaap,ProceedsFromStockOptionsExercised,Proceeds from Stock Options Exercised,USD,4,2014-03-31,2014-12-31,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodTotalIntrinsicValue,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercises in Period, Intrinsic Value",USD,4,2014-03-31,2014-12-31,True
+us-gaap,ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice,"Share-based Compensation Arrangements by Share-based Payment Award, Options, Exercises in Period, Weighted Average Exercise Price",USD/shares,4,2014-03-31,2014-12-31,True
+us-gaap,StockIssuedDuringPeriodSharesStockOptionsExercised,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercises in Period",shares,4,2014-03-31,2014-12-31,True
+us-gaap,StockIssuedDuringPeriodValueRestrictedStockAwardNetOfForfeitures,"Stock Issued During Period, Value, Restricted Stock Award, Net of Forfeitures",USD,4,2016-12-31,2021-12-31,True
+us-gaap,StockIssuedDuringPeriodValueStockOptionsExercised,"Stock Issued During Period, Value, Stock Options Exercised",USD,4,2014-03-31,2014-12-31,True
+us-gaap,TangibleAssetImpairmentCharges,Tangible Asset Impairment Charges,USD,4,2014-12-31,2017-12-31,True
+us-gaap,ContractWithCustomerLiabilityNoncurrent,"Contract with Customer, Liability, Noncurrent",USD,3,2021-12-31,2022-09-30,False
+us-gaap,DebtInstrumentPeriodicPaymentPrincipal,"Debt Instrument, Periodic Payment, Principal",USD,3,2020-05-31,2020-09-30,True
+us-gaap,DeferredTaxAssetsInvestments,"Deferred Tax Assets, Investments",USD,3,2021-12-31,2023-12-31,False
+us-gaap,DeferredTaxLiabilitiesOtherComprehensiveIncome,"Deferred Tax Liabilities, Other Comprehensive Income",USD,3,2014-12-31,2016-12-31,False
+us-gaap,FederalIncomeTaxExpenseBenefitContinuingOperations,"Federal Income Tax Expense (Benefit), Continuing Operations",USD,3,2023-12-31,2025-12-31,True
+us-gaap,FinanceLeaseLiabilityPaymentsRemainderOfFiscalYear,"Finance Lease, Liability, to be Paid, Remainder of Fiscal Year",USD,3,2019-03-31,2019-09-30,False
+us-gaap,FurnitureAndFixturesGross,"Furniture and Fixtures, Gross",USD,3,2014-12-31,2016-12-31,False
+us-gaap,GainLossOnSaleOfInvestments,Gain (Loss) on Sale of Investments,USD,3,2015-09-30,2016-12-31,True
+us-gaap,GovernmentAssistanceAmount,,USD,3,2020-12-31,2022-12-31,True
+us-gaap,ImpairmentOfIntangibleAssetsExcludingGoodwill,Impairment of Intangible Assets (Excluding Goodwill),USD,3,2014-12-31,2022-09-30,True
+us-gaap,LesseeOperatingLeaseLiabilityPaymentsRemainderOfFiscalYear,"Lessee, Operating Lease, Liability, to be Paid, Remainder of Fiscal Year",USD,3,2019-03-31,2019-09-30,False
+us-gaap,MarketableSecuritiesUnrealizedGainLoss,"Marketable Securities, Unrealized Gain (Loss)",USD,3,2014-03-31,2014-09-30,True
+us-gaap,NumberOfReportableSegments,Number of Reportable Segments,USD,3,2019-12-31,2021-12-31,True
+us-gaap,OtherComprehensiveIncomeLossForeignCurrencyTransactionAndTranslationReclassificationAdjustmentFromAOCIRealizedUponSaleOrLiquidationNetOfTax,"Other Comprehensive Income (Loss), Foreign Currency Transaction and Translation Reclassification Adjustment from AOCI, Realized upon Sale or Liquidation, Net of Tax",USD,3,2017-12-31,2019-12-31,True
+us-gaap,ProceedsFromDivestitureOfInterestInJointVenture,Proceeds from Divestiture of Interest in Joint Venture,USD,3,2015-09-30,2016-12-31,True
+us-gaap,ProceedsFromRepaymentsOfNotesPayable,Proceeds from (Repayments of) Notes Payable,USD,3,2019-12-31,2021-12-31,True
+us-gaap,ReportingUnitPercentageOfFairValueInExcessOfCarryingAmount,"Reporting Unit, Percentage of Fair Value in Excess of Carrying Amount",pure,3,2014-12-31,2020-03-31,False
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingNumber,"Share-based Compensation Arrangement by Share-based Payment Award, Options, Outstanding, Number",shares,3,2014-03-31,2014-09-30,False
+us-gaap,StateAndLocalIncomeTaxExpenseBenefitContinuingOperations,"State and Local Income Tax Expense (Benefit), Continuing Operations",USD,3,2023-12-31,2025-12-31,True
+srt,StockRepurchaseProgramAuthorizedAmount1,,USD,3,2025-03-06,2025-09-30,False
+us-gaap,AdjustmentsToAdditionalPaidInCapitalEquityComponentOfConvertibleDebt,"Adjustments to Additional Paid in Capital, Equity Component of Convertible Debt",USD,2,2020-09-30,2020-12-31,True
+us-gaap,AdjustmentsToAdditionalPaidInCapitalWarrantIssued,"Adjustments to Additional Paid in Capital, Warrant Issued",USD,2,2020-09-30,2020-12-31,True
+us-gaap,AllowanceForLoanAndLeaseLossesForeignCurrencyTranslation,"Allowance for Loan and Lease Losses, Foreign Currency Translation",USD,2,2021-12-31,2022-12-31,True
+us-gaap,DeferredRevenue,Deferred Revenue,USD,2,2017-12-31,2018-03-31,False
+us-gaap,DeferredTaxAssetsOtherComprehensiveLoss,"Deferred Tax Assets, Other Comprehensive Loss",USD,2,2018-12-31,2019-12-31,False
+us-gaap,EquityMethodInvestmentOwnershipPercentage,"Equity Method Investment, Ownership Percentage",pure,2,2014-03-31,2014-06-30,False
+us-gaap,FinancingReceivableSale,,USD,2,2021-12-31,2022-09-30,True
+us-gaap,FiniteLivedIntangibleAssetsPurchaseAccountingAdjustments,"Finite-Lived Intangible Assets, Purchase Accounting Adjustments",USD,2,2018-12-31,2019-12-31,True
+us-gaap,GainOrLossOnSaleOfStockInSubsidiary,Gain (Loss) on Disposition of Stock in Subsidiary,USD,2,2023-09-30,2023-12-31,True
+us-gaap,GoodwillTransfers,"Goodwill, Transfers",USD,2,2023-09-30,2023-12-31,True
+us-gaap,ImpairmentOfIntangibleAssetsFinitelived,"Impairment of Intangible Assets, Finite-lived",USD,2,2014-12-31,2015-12-31,True
+us-gaap,IncreaseDecreaseInRestrictedCashAndInvestmentsForOperatingActivities,Increase (Decrease) in Restricted Investments for Operating Activities,USD,2,2021-09-30,2022-09-30,True
+us-gaap,NewAccountingPronouncementOrChangeInAccountingPrincipleCumulativeEffectOfChangeOnEquityOrNetAssets1,"New Accounting Pronouncement or Change in Accounting Principle, Cumulative Effect of Change on Equity or Net Assets (Deprecated 2020-01-31)",USD,2,2018-01-01,2018-01-02,False
+us-gaap,OtherFiniteLivedIntangibleAssetsGross,"Other Finite-Lived Intangible Assets, Gross",USD,2,2022-06-30,2022-09-30,False
+us-gaap,PaymentsForHedgeFinancingActivities,"Payments for Hedge, Financing Activities",USD,2,2020-09-30,2021-09-30,True
+us-gaap,PaymentsOfDividends,Payments of Dividends,USD,2,2014-04-30,2015-04-30,True
+us-gaap,ProceedsFromLinesOfCredit,Proceeds from Lines of Credit,USD,2,2020-03-31,2020-06-30,True
+us-gaap,RestructuringReserve,Restructuring Reserve,USD,2,2022-12-31,2023-12-31,False
+us-gaap,RestructuringReserveAccrualAdjustment1,"Restructuring Reserve, Accrual Adjustment",USD,2,2022-03-31,2022-06-30,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period",shares,2,2021-12-31,2024-03-31,True
+us-gaap,StockIssuedDuringPeriodValueConversionOfConvertibleSecuritiesNetOfAdjustments,"Stock Issued During Period, Value, Conversion of Convertible Securities, Net of Adjustments",USD,2,2020-09-30,2020-12-31,True
+us-gaap,TaxCutsAndJobsActOf2017IncomeTaxExpenseBenefit,"Tax Cuts and Jobs Act, Income Tax Expense (Benefit)",USD,2,2017-12-31,2018-12-31,True
+us-gaap,UnamortizedDebtIssuanceExpense,Unamortized Debt Issuance Expense,USD,2,2020-12-31,2021-12-31,False
+us-gaap,UnrecognizedTaxBenefitsDecreasesResultingFromCurrentPeriodTaxPositions,"Unrecognized Tax Benefits, Decrease Resulting from Current Period Tax Positions",USD,2,2014-12-31,2015-12-31,True
+us-gaap,AccumulatedOtherComprehensiveIncomeLossAvailableForSaleSecuritiesAdjustmentNetOfTax,"AOCI, Debt Securities, Available-for-sale, Adjustment, after Tax",USD,1,2014-09-30,2014-09-30,False
+us-gaap,AdjustmentsToAdditionalPaidInCapitalConvertibleDebtWithConversionFeature,"Adjustments to Additional Paid in Capital, Convertible Debt with Conversion Feature",USD,1,2020-08-21,2020-08-21,False
+us-gaap,AllocatedShareBasedCompensationExpense,"Share-based Payment Arrangement, Expense",USD,1,2024-09-30,2024-09-30,True
+us-gaap,BusinessCombinationContingentConsiderationLiability,"Business Combination, Contingent Consideration, Liability",USD,1,2024-12-31,2024-12-31,False
+us-gaap,BusinessCombinationRecognizedIdentifiableAssetsAcquiredAndLiabilitiesAssumedIntangibles,"Business Combination, Recognized Identifiable Assets Acquired and Liabilities Assumed, Finite-Lived Intangibles",USD,1,2014-12-31,2014-12-31,False
+us-gaap,ClassOfWarrantOrRightExercisePriceOfWarrantsOrRights1,"Class of Warrant or Right, Exercise Price of Warrants or Rights",USD/shares,1,2020-12-31,2020-12-31,False
+us-gaap,CumulativeEffectOfNewAccountingPrincipleInPeriodOfAdoption,Cumulative Effect of New Accounting Principle in Period of Adoption (Deprecated 2020-01-31),USD,1,2018-01-01,2018-01-01,False
+us-gaap,DebtInstrumentRedemptionPricePercentageOfPrincipalAmountRedeemed,"Debt Instrument, Redemption Price, Percentage of Principal Amount Redeemed",pure,1,2020-05-31,2020-05-31,True
+us-gaap,DebtInstrumentUnamortizedDiscount,"Debt Instrument, Unamortized Discount",USD,1,2020-12-31,2020-12-31,False
+us-gaap,DecreaseInUnrecognizedTaxBenefitsIsReasonablyPossible,Decrease in Unrecognized Tax Benefits is Reasonably Possible,USD,1,2019-12-31,2019-12-31,False
+us-gaap,DeferredRevenueRevenueRecognized1,"Deferred Revenue, Revenue Recognized",USD,1,2018-03-31,2018-03-31,True
+us-gaap,DeferredTaxAssetsLiabilitiesNet,"Deferred Tax Assets, Net",USD,1,2014-12-31,2014-12-31,False
+us-gaap,DeferredTaxAssetsUnrealizedCurrencyLosses,"Deferred Tax Assets, Unrealized Currency Losses",USD,1,2015-12-31,2015-12-31,False
+us-gaap,DeferredTaxAssetsValuationAllowanceCurrent,"Deferred Tax Assets, Valuation Allowance, Current",USD,1,2014-12-31,2014-12-31,False
+us-gaap,DeferredTaxLiabilitiesCurrent,"Deferred Tax Liabilities, Net, Current",USD,1,2014-12-31,2014-12-31,False
+us-gaap,DeferredTaxLiabilitiesOther,"Deferred Tax Liabilities, Other",USD,1,2014-12-31,2014-12-31,False
+us-gaap,DisposalGroupIncludingDiscontinuedOperationGoodwillNoncurrent,"Disposal Group, Including Discontinued Operation, Goodwill, Noncurrent",USD,1,2023-09-30,2023-09-30,False
+us-gaap,EffectiveIncomeTaxRateContinuingOperations,"Effective Income Tax Rate Reconciliation, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationChangeInDeferredTaxAssetsValuationAllowance,"Effective Income Tax Rate Reconciliation, Change in Deferred Tax Assets Valuation Allowance, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationCrossBorderOtherAmount,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationCrossBorderOtherPercent,,pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationFdiiAmount,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationFdiiPercent,,pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationGiltiAmount,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationGiltiPercent,,pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationNondeductibleExpenseOther,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Other, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationNondeductibleExpenseShareBasedCompensationCost,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Share-based Payment Arrangement, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationOtherReconcilingItemsPercent,"Effective Income Tax Rate Reconciliation,Other Reconciling Items, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationStateAndLocalIncomeTaxes,"Effective Income Tax Rate Reconciliation, State and Local Income Taxes, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationTaxCreditsForeign,"Effective Income Tax Rate Reconciliation, Tax Credit, Foreign, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EffectiveIncomeTaxRateReconciliationTaxCreditsOther,"Effective Income Tax Rate Reconciliation, Tax Credit, Other, Percent",pure,1,2025-12-31,2025-12-31,True
+us-gaap,EmployeeServiceShareBasedCompensationNonvestedAwardsTotalCompensationCostNotYetRecognizedShareBasedAwardsOtherThanOptions,"Share-based Payment Arrangement, Nonvested Award, Excluding Option, Cost Not yet Recognized, Amount",USD,1,2021-12-31,2021-12-31,False
+us-gaap,EquityMethodInvestmentOtherThanTemporaryImpairment,"Equity Method Investment, Other than Temporary Impairment",USD,1,2022-09-30,2022-09-30,True
+us-gaap,ForeignEarningsRepatriated,Foreign Earnings Repatriated,USD,1,2017-12-31,2017-12-31,True
+us-gaap,GoodwillOtherChanges,"Goodwill, Other Changes (Deprecated 2016-01-31)",USD,1,2014-12-31,2014-12-31,True
+us-gaap,GoodwillOtherIncreaseDecrease,"Goodwill, Other Increase (Decrease)",USD,1,2016-12-31,2016-12-31,True
+us-gaap,GovernmentAssistanceAwardAmount,,USD,1,2024-12-31,2024-12-31,False
+us-gaap,ImpairmentOfIntangibleAssetsIndefinitelivedExcludingGoodwill,"Impairment of Intangible Assets, Indefinite-lived (Excluding Goodwill)",USD,1,2023-09-30,2023-09-30,True
+us-gaap,IncomeTaxPaidFederalAfterRefundReceived,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxPaidForeignAfterRefundReceived,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxPaidStateAndLocalAfterRefundReceived,,USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationDispositionOfBusiness,"Effective Income Tax Rate Reconciliation, Disposition of Business, Amount",USD,1,2014-12-31,2014-12-31,True
+us-gaap,IncomeTaxReconciliationNondeductibleExpenseOther,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Other, Amount",USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationNondeductibleExpenseShareBasedCompensationCost,"Effective Income Tax Rate Reconciliation, Nondeductible Expense, Share-based Payment Arrangement, Amount",USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationOtherReconcilingItems,"Effective Income Tax Rate Reconciliation, Other Reconciling Items, Amount",USD,1,2025-12-31,2025-12-31,True
+us-gaap,IncomeTaxReconciliationTaxCreditsOther,"Effective Income Tax Rate Reconciliation, Tax Credit, Other, Amount",USD,1,2025-12-31,2025-12-31,True
+us-gaap,InterestExpenseOtherLongTermDebt,"Interest Expense, Other Long-term Debt",USD,1,2023-12-31,2023-12-31,True
+us-gaap,LeaseIncentivePayableCurrent,"Lease Incentive, Payable, Current",USD,1,2020-12-31,2020-12-31,False
+us-gaap,MinorityInterestDecreaseFromRedemptions,"Noncontrolling Interest, Decrease from Redemptions or Purchase of Interests",USD,1,2016-12-31,2016-12-31,True
+us-gaap,NoncontrollingInterestIncreaseFromSubsidiaryEquityIssuance,"Noncontrolling Interest, Increase from Subsidiary Equity Issuance",USD,1,2014-12-31,2014-12-31,True
+us-gaap,NumberOfReportableSegments,Number of Reportable Segments,Unit,1,2016-12-31,2016-12-31,True
+us-gaap,PaymentsToAcquireAdditionalInterestInSubsidiaries,Payments to Acquire Additional Interest in Subsidiaries,USD,1,2016-12-31,2016-12-31,True
+us-gaap,PaymentsToAcquireBusinessTwoNetOfCashAcquired,"Payments to Acquire Business Two, Net of Cash Acquired",USD,1,2015-12-31,2015-12-31,True
+us-gaap,PaymentsToAcquireOtherPropertyPlantAndEquipment,"Payments to Acquire Other Property, Plant, and Equipment",USD,1,2015-03-31,2015-03-31,True
+us-gaap,PaymentsToMinorityShareholders,Payments to Noncontrolling Interests,USD,1,2016-12-31,2016-12-31,True
+us-gaap,RestrictedCash,Restricted Cash,USD,1,2020-12-31,2020-12-31,False
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Forfeited in Period",shares,1,2021-12-31,2021-12-31,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedWeightedAverageGrantDateFairValue,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested, Weighted Average Grant Date Fair Value",USD/shares,1,2022-09-30,2022-09-30,False
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsVestedInPeriod,"Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Vested in Period",shares,1,2021-12-31,2021-12-31,True
+us-gaap,ShareBasedCompensationArrangementByShareBasedPaymentAwardPlanModificationIncrementalCompensationCost,"Share-based Payment Arrangement, Plan Modification, Incremental Cost",USD,1,2020-12-31,2020-12-31,True
+us-gaap,ShareBasedCompensationArrangementsByShareBasedPaymentAwardOptionsGrantsInPeriodWeightedAverageExercisePrice,"Share-based Compensation Arrangements by Share-based Payment Award, Options, Grants in Period, Weighted Average Exercise Price",USD/shares,1,2025-12-31,2025-12-31,True
+us-gaap,ShareRepurchaseProgramExciseTax,,USD,1,2025-09-30,2025-09-30,True
+us-gaap,StockIssuedDuringPeriodValueNewIssues,"Stock Issued During Period, Value, New Issues",USD,1,2014-12-31,2014-12-31,True
+us-gaap,StockIssuedDuringPeriodValueRestrictedStockAwardGross,"Stock Issued During Period, Value, Restricted Stock Award, Gross",USD,1,2020-12-31,2020-12-31,True
+us-gaap,StockRepurchasedDuringPeriodShares,"Stock Repurchased During Period, Shares",shares,1,2025-12-31,2025-12-31,True
+us-gaap,StockRepurchasedDuringPeriodValue,"Stock Repurchased During Period, Value",USD,1,2025-12-31,2025-12-31,True
+us-gaap,TaxCutsAndJobsActOf2017ChangeInTaxRateDeferredTaxAssetIncomeTaxExpense,"Tax Cuts and Jobs Act, Change in Tax Rate, Deferred Tax Asset, Income Tax Expense",USD,1,2018-12-31,2018-12-31,True
+us-gaap,TaxCutsAndJobsActOf2017ChangeInTaxRateDeferredTaxLiabilityIncomeTaxBenefit,"Tax Cuts and Jobs Act, Change in Tax Rate, Deferred Tax Liability, Income Tax Benefit",USD,1,2017-12-31,2017-12-31,True
+us-gaap,TaxCutsAndJobsActOf2017TransitionTaxForAccumulatedForeignEarningsIncomeTaxExpense,"Tax Cuts and Jobs Act, Transition Tax for Accumulated Foreign Earnings, Income Tax Expense",USD,1,2017-12-31,2017-12-31,True
+us-gaap,TemporaryEquityCarryingAmountIncludingPortionAttributableToNoncontrollingInterests,"Temporary Equity, Carrying Amount, Including Portion Attributable to Noncontrolling Interests",USD,1,2023-09-30,2023-09-30,False
+us-gaap,WarrantsAndRightsOutstanding,Warrants and Rights Outstanding,USD,1,2025-09-30,2025-09-30,False
